@@ -1,0 +1,1 @@
+AI-based Moving Vehicle Registration Plate Detection System is a sophisticated application that leverages Artificial Intelligence (AI) and computer vision technologies to automatically identify and recognize vehicle license plates in real-time as vehicles move through a given environment.
